@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karim Fakhry
+- 👀 I’m interested in Devoloping Flutter (Andriod/IOS) Mobile Apps
+- 🌱 I’m currently learning Flutter - NodeJs - ExpressJs - MonogDB
+- 📫 How to reach me ... dev.karim.fakhry@gmail.com
